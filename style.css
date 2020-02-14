@@ -1,0 +1,28 @@
+.btn{
+
+	margin-left: 1%;
+	margin-top: -0.2%;
+}
+
+.btn:hover{
+
+	transition: 1s;
+}
+
+.input-field{
+
+	height: 35px;
+	
+}
+
+.title-post{
+
+
+}
+
+.title-app{
+
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
